@@ -16,30 +16,30 @@ This repository contains my Redis learning notes and sample code.
 ## Learning Plan (Roadmap)
 
 1. Basics
-	- What Redis is and when to use it.
-	- Installation and running a local server.
-	- Redis CLI basics.
+    - What Redis is and when to use it.
+    - Installation and running a local server.
+    - Redis CLI basics.
 2. Core Data Types
-	- Strings
-	- Lists
-	- Sets
-	- Hashes
-	- Sorted Sets
+    - Strings
+    - Lists
+    - Sets
+    - Hashes
+    - Sorted Sets
 3. Key Topics
-	- Expiration and TTL
-	- Pub/Sub
-	- Transactions
-	- Pipelines
-	- Persistence (RDB, AOF)
+    - Expiration and TTL
+    - Pub/Sub
+    - Transactions
+    - Pipelines
+    - Persistence (RDB, AOF)
 4. Patterns
-	- Caching
-	- Rate limiting
-	- Queues
-	- Leaderboards
+    - Caching
+    - Rate limiting
+    - Queues
+    - Leaderboards
 5. Operations
-	- Memory policies
-	- Monitoring
-	- Backups
+    - Memory policies
+    - Monitoring
+    - Backups
 
 ## Notes (Quick Start)
 
@@ -86,4 +86,3 @@ examples/
 
 - Add a notes file per data type.
 - Add a small script or CLI snippet per topic.
-
