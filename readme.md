@@ -10,8 +10,9 @@ This repository contains my Redis learning notes and sample code.
 
 ## Repository Contents
 
-- Notes: this README and any future markdown files in the repo.
-- Code: small, focused examples for each topic (to be added).
+- Notes: this `README.md` and the main architecture notes in [`redis-01.md`](redis-01.md).
+- Diagram: [`Redis-01.png`](Redis-01.png) (open or preview in VS Code).
+- Code: small, focused examples (see `examples/` directory pattern below).
 
 ## Learning Plan (Roadmap)
 
@@ -69,18 +70,24 @@ DEL user:1
 
 ## Code Examples
 
-Add example files here as you progress. Suggested structure:
+Add example files here as you progress. Suggested structure (create an `examples/` folder):
 
 ```
 examples/
-  strings.md
-  lists.md
-  sets.md
-  hashes.md
-  sorted-sets.md
-  pubsub.md
-  transactions.md
+    strings.md
+    lists.md
+    sets.md
+    hashes.md
+    sorted-sets.md
+    pubsub.md
+    transactions.md
 ```
+
+## Resources
+
+- Architecture notes: [redis-01.md](redis-01.md)
+- Diagram image: [Redis-01.png](Redis-01.png)
+
 
 ## Next Steps
 

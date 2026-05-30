@@ -1,0 +1,30 @@
+PS C:\Full_Stack\redis> ls
+
+
+    Directory: C:\Full_Stack\redis
+
+
+Mode                 LastWriteTime         Length Name                      
+----                 -------------         ------ ----                      
+d-----         5/29/2026   1:14 PM                redis-01                  
+d-----         5/29/2026   1:42 PM                redis-02                  
+-a----         5/29/2026   1:22 PM           2072 readme.md                 
+-a----         5/29/2026   1:23 PM           7698 redis-01.md               
+
+
+PS C:\Full_Stack\redis> cd .\redis-02\
+PS C:\Full_Stack\redis\redis-02> ls
+
+
+    Directory: C:\Full_Stack\redis\redis-02
+
+
+Mode                 LastWriteTime         Length Name                      
+----                 -------------         ------ ----                      
+d-----         5/29/2026   1:39 PM                01_foundation_of_redis    
+d-----         5/29/2026   1:42 PM                02_setup_local_redis      
+-a----         5/29/2026   1:51 PM            462 docker-compose.yml        
+
+
+PS C:\Full_Stack\redis\redis-02> docker compose up
+unable to get image 'redis:7-alpine': Error response from daemon: Docker Desktop is manually paused. Unpause it

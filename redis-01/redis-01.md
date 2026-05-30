@@ -248,19 +248,4 @@ TTL is great for ephemeral data (OTPs, caches, sessions) but not for the canonic
 
 If anything is still not visible, tell me whether the preview is blank or the image looks black — I will move the image or provide a text-only version.
 
----
-
-## 🖼️ Snapshots (click to open full image)
-<p align="center">
-	<a href="Redis-01.png"><img src="Redis-01.png" alt="Full diagram" width="600"/></a>
-</p>
-
-<p align="center">
-	<a href="Redis-01.png"><img src="Redis-01.png" alt="Top cluster snapshot" width="360"/></a>
-	&nbsp;&nbsp;
-	<a href="Redis-01.png"><img src="Redis-01.png" alt="Cache flow snapshot" width="360"/></a>
-</p>
-
-_If these still render incorrectly in your editor, I can move the image file to a different format (JPEG) or provide cropped section images separately._
-
 
