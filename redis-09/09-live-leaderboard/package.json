@@ -1,0 +1,14 @@
+{
+    "name": "09-live-leaderboard",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "src/index.js",
+    "scripts": {
+        "dev": "node src/index.js"
+    },
+    "dependencies": {
+        "express": "^5.2.1",
+        "ioredis": "^5.4.2"
+    }
+}
